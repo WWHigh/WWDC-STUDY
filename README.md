@@ -23,9 +23,9 @@
 | 김의성 (Youth)| [kimscastle](https://github.com/kimscastle)                              
 | 민채호 (Avo)  | [Chaeho-Min](https://github.com/Chaeho-Min)                                  
 | 박종호 (HoJoengE) | [HoJongPARK](https://github.com/HoJongPARK)                                
-| 박준홍 (feldblume5263) | [feldblume5263](https://github.com/feldblume5263)                             
-| 이재용 (wody-d) | [wody-d](https://github.com/wody-d)                             
-| 정찬희 (chaneeii) |[chaneeii](https://github.com/chaneeii)                                           
-| 한택환 (TaekH) |[TaekH](https://github.com/TaekH)             
+| 박준홍 (Noasdaq) | [feldblume5263](https://github.com/feldblume5263)                             
+| 이재용 (Woody) | [wody-d](https://github.com/wody-d)                             
+| 정찬희 (Avery) |[chaneeii](https://github.com/chaneeii)                                           
+| 한택환 (Taek) |[TaekH](https://github.com/TaekH)             
 
 
