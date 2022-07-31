@@ -1,21 +1,28 @@
-# 🍎 WWDC 스터디 : 떱떱해 (WWHigh)
 
-## 스터디 소개
+<div align="center">
 
-### 운영방식
-> 💻 WWDC 세션 시청 후 정리한 내용을 Github Issue 및 오프라인으로 공유
+#  WWDC 스터디 : 떱떱해 (WWHigh)
+
+
+
+</div>
+
+## 💻 How we study
+> WWDC 세션 시청 후 정리한 내용을 Github Issue 및 오프라인으로 공유
 
 - 스터디 인원을 2개 그룹으로 나누어 각 차시별 격주로 각자 주제에 대해 오프라인 공유 
   - WWDC 세션 영상을 시청 후, `Github Issue` 에 labelling 하여 공유 (WWDC##, 주제)
-  - `주 1회` 오프라인으로 각자 학습한 주제에 대해 `오프라인` 공유 
+  - `주 1회` 오프라인으로 각자 학습한 주제에 대해 `오프라인` 공유 (매주 목요일 19시 -)
 
 - 차시별 주제 선정방식은 아래와 같음
   - 모든 차시 공통주제 :  Swift / SwiftUI 및 프레임워크
   - 차시별 선정주제 : 팀원 협의에 의해 결정
+  - 주제 선정 이후 각자 시청할 영상을 Notion 에 공유
+
 
 <br/>
 
-## 👨‍💻 Members
+## 👨‍💻 About us
 
 
 ![WWHigh Logo 001](https://user-images.githubusercontent.com/63157395/182010217-b0556bad-dfef-46d0-b044-d7ad17687cec.jpeg)
@@ -33,18 +40,79 @@
 
 <br/>
 
-## 1차시: Swift / SwiftUI 및 프레임워크
-| Team 	| Name   	| Topic                                                                                                	| ETC 	|
-|:----:	|--------	|------------------------------------------------------------------------------------------------------	|-----	|
-|   A  	| 김승창 	| [ARC in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/7)                                        	|     	|
-|   A  	| 민채호 	| [Craft search experiences in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/5)                 	|     	|
-|   A  	| 박종호 	| [Add rich graphics to your SwiftUI app](https://github.com/WWHigh/WWDC-STUDY/issues/2)               	|     	|
-|   A  	| 박준홍 	| [Data Essentials in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/6)                          	|     	|
-|   A  	| 정찬희 	| [The SwiftUI cookbook for navigation](https://github.com/WWHigh/WWDC-STUDY/issues/4)                 	|     	|
-|   B  	| 김영우 	| [Meet the Swift Algorithms and Collections packages](https://github.com/WWHigh/WWDC-STUDY/issues/12) 	|     	|
-|   B  	| 김의성 	| [What's New in Core ML, Part1](https://github.com/WWHigh/WWDC-STUDY/issues/11)                       	|     	|
-|   B  	| 이재용 	| [Meet async/await in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/3)                           	|     	|
-|   B  	| 임영후 	| [Localize your SwiftUi app](https://github.com/WWHigh/WWDC-STUDY/issues/10)                          	|     	|
-|   B  	| 한택환 	| [Stacks, Grids, and Outlines in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/8)              	|     	|
+## 📝 What we do
+  
+### 차시별 주제 
+| **차시**      | **주제**                   |
+| ----------- | ------------------------ |
+| **1차시** | Swift / SwiftUI 및  프레임워크 |
+| **2차시** | 에센셜                      |
+| **3차시** | WWDC22 중  자유선택           |
+| **4차시** | 개발자도구                    |
+| **5차시** | 증강현실                     |
 
 <br/>
+
+### 1차시: Swift / SwiftUI 및 프레임워크
+| Name   	| Topic                                                                                                	| ETC 	|
+|:------:	|------------------------------------------------------------------------------------------------------	|-----	|
+| 김승창 	| [ARC in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/7)                                        	|     	|
+| 민채호 	| [Craft search experiences in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/5)                 	|     	|
+| 박종호 	| [Add rich graphics to your SwiftUI app](https://github.com/WWHigh/WWDC-STUDY/issues/2)               	|     	|
+| 박준홍 	| [Data Essentials in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/6)                          	|     	|
+| 정찬희 	| [The SwiftUI cookbook for navigation](https://github.com/WWHigh/WWDC-STUDY/issues/4)                 	|     	|
+| 김영우 	| [Meet the Swift Algorithms and Collections packages](https://github.com/WWHigh/WWDC-STUDY/issues/12) 	|     	|
+| 김의성 	| [What's New in Core ML, Part1](https://github.com/WWHigh/WWDC-STUDY/issues/11)                       	|     	|
+| 이재용 	| [Meet async/await in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/3)                           	|     	|
+| 임영후 	| [Localize your SwiftUi app](https://github.com/WWHigh/WWDC-STUDY/issues/10)                          	|     	|
+| 한택환 	| [Stacks, Grids, and Outlines in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/8)              	|     	|
+
+
+<!--
+
+### 2차시: 에센셜
+| Name   	| Topic                                                                                                	| ETC 	|
+|:------:	|------------------------------------------------------------------------------------------------------	|-----	|
+| 김승창 	| [ARC in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/7)                                        	|     	|
+| 민채호 	| [Craft search experiences in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/5)                 	|     	|
+| 박종호 	| [Add rich graphics to your SwiftUI app](https://github.com/WWHigh/WWDC-STUDY/issues/2)               	|     	|
+| 박준홍 	| [Data Essentials in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/6)                          	|     	|
+| 정찬희 	| [The SwiftUI cookbook for navigation](https://github.com/WWHigh/WWDC-STUDY/issues/4)                 	|     	|
+| 김영우 	| [Meet the Swift Algorithms and Collections packages](https://github.com/WWHigh/WWDC-STUDY/issues/12) 	|     	|
+| 김의성 	| [What's New in Core ML, Part1](https://github.com/WWHigh/WWDC-STUDY/issues/11)                       	|     	|
+| 이재용 	| [Meet async/await in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/3)                           	|     	|
+| 임영후 	| [Localize your SwiftUi app](https://github.com/WWHigh/WWDC-STUDY/issues/10)                          	|     	|
+| 한택환 	| [Stacks, Grids, and Outlines in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/8)              	|     	|
+
+
+### 3차시: WWDC22 세션 중 자유선택
+| Name   	| Topic                                                                                                	| ETC 	|
+|:------:	|------------------------------------------------------------------------------------------------------	|-----	|
+| 김승창 	| [ARC in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/7)                                        	|     	|
+| 민채호 	| [Craft search experiences in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/5)                 	|     	|
+| 박종호 	| [Add rich graphics to your SwiftUI app](https://github.com/WWHigh/WWDC-STUDY/issues/2)               	|     	|
+| 박준홍 	| [Data Essentials in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/6)                          	|     	|
+| 정찬희 	| [The SwiftUI cookbook for navigation](https://github.com/WWHigh/WWDC-STUDY/issues/4)                 	|     	|
+| 김영우 	| [Meet the Swift Algorithms and Collections packages](https://github.com/WWHigh/WWDC-STUDY/issues/12) 	|     	|
+| 김의성 	| [What's New in Core ML, Part1](https://github.com/WWHigh/WWDC-STUDY/issues/11)                       	|     	|
+| 이재용 	| [Meet async/await in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/3)                           	|     	|
+| 임영후 	| [Localize your SwiftUi app](https://github.com/WWHigh/WWDC-STUDY/issues/10)                          	|     	|
+| 한택환 	| [Stacks, Grids, and Outlines in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/8)              	|     	|
+
+
+
+### 4차시: 개발자 도구
+| Name   	| Topic                                                                                                	| ETC 	|
+|:------:	|------------------------------------------------------------------------------------------------------	|-----	|
+| 김승창 	| [ARC in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/7)                                        	|     	|
+| 민채호 	| [Craft search experiences in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/5)                 	|     	|
+| 박종호 	| [Add rich graphics to your SwiftUI app](https://github.com/WWHigh/WWDC-STUDY/issues/2)               	|     	|
+| 박준홍 	| [Data Essentials in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/6)                          	|     	|
+| 정찬희 	| [The SwiftUI cookbook for navigation](https://github.com/WWHigh/WWDC-STUDY/issues/4)                 	|     	|
+| 김지경 	| [Meet the Swift Algorithms and Collections packages](https://github.com/WWHigh/WWDC-STUDY/issues/12) 	|     	|
+| 김의성 	| [What's New in Core ML, Part1](https://github.com/WWHigh/WWDC-STUDY/issues/11)                       	|     	|
+| 이재용 	| [Meet async/await in Swift](https://github.com/WWHigh/WWDC-STUDY/issues/3)                           	|     	|
+| 임영후 	| [Localize your SwiftUi app](https://github.com/WWHigh/WWDC-STUDY/issues/10)                          	|     	|
+| 한택환 	| [Stacks, Grids, and Outlines in SwiftUI](https://github.com/WWHigh/WWDC-STUDY/issues/8)              	|     	|
+
+-->
